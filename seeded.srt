@@ -1,0 +1,19 @@
+1
+00:00:01.000 --> 00:00:03.500
+Hello and welcome back to the channel everyone.
+
+3
+00:00:03.000 --> 00:00:05.000
+Today we fix subtitles properly.
+
+2
+00:00:05.000 --> 00:00:05.000
+Zero duration cue here.
+
+4
+00:00:06.000 --> 00:00:09.000
+
+
+5
+00:00:09.500 --> 00:00:10.000
+This line is deliberately made far too long for one subtitle line on screen.
